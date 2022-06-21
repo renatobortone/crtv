@@ -1,0 +1,8 @@
+{
+  "name": "CRTV",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "ab1bbcac"
+}
